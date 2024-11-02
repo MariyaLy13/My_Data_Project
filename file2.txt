@@ -1,0 +1,2 @@
+"New wonderful file in the separate branch" 
+"New line." 
